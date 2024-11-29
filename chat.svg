@@ -331,11 +331,19 @@
 
   <!-- LinkedIn -->
 
-    <g transform="translate(10, 192)" class="msg-4">
+    <!-- <g transform="translate(10, 192)" class="msg-4">
         <rect width="456" height="66" rx="18" class="bubble" />
         <text x="15" y="27">Here is my LinkedIn, hope you enjoy...</text>
         <text x="15" y="50"> <a xlink:href="https://www.linkedin.com/in/carljoseph156/">https://www.linkedin.com/in/carljoseph156/</a></text>
-    </g>
+    </g> -->
+    <g transform="translate(10, 192)" class="msg-4">
+    <rect width="456" height="66" rx="18" class="bubble" />
+    <text x="15" y="27">Here is my LinkedIn, hope you enjoy...</text>
+    <a xlink:href="https://www.linkedin.com/in/carljoseph156/" target="_blank">
+        <text x="15" y="50" fill="blue" style="text-decoration: underline;">https://www.linkedin.com/in/carljoseph156/</text>
+    </a>
+</g>
+
 
   <!-- <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
