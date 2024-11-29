@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBzMmR3ODc5ZmJrczNqbTRvZ3Z5Mm8zcWp3dG9teHFueG84cDRzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.webp" width="600" height="300"/>
+</div>
+
 [![chat image](https://raw.githubusercontent.com/carljoe156/welcome/main/chat.svg)](https://carljoe156.github.io)
 
 <h1>
